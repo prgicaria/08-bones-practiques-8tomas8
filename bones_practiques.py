@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''Institut Icària. 1r de Batxillerat. Curs 2024-2025.
 Entrar dos números i calcular el quocient de la divisió i el residu'''
 
